@@ -155,5 +155,5 @@ configs/local/default.yaml
 .autoenv
 
 # Temporally disable workflows
-github/workflows
+.github/workflows/
 
